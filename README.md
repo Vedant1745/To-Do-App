@@ -1,6 +1,12 @@
 # To_do_app
 
-A new Flutter project.
+A simple To-Do List app built using Flutter. This app allows users to add, update, delete, and mark tasks as completed.
+
+Features
+Add new tasks to the to-do list.
+Mark tasks as completed or incomplete.
+Delete tasks.
+Edit task titles.
 
 ## Getting Started
 
