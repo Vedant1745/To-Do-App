@@ -1,12 +1,15 @@
-# To_do_app
+# To-Do List App
+A simple To-Do List app built using Flutter. This app allows users to manage their tasks with the ability to add, update, delete, and mark tasks as completed. The app saves the data locally so that the tasks persist even after closing the app.
 
-A simple To-Do List app built using Flutter. This app allows users to add, update, delete, and mark tasks as completed.
+## Features
+- Add new tasks to the to-do list.
+- Mark tasks as completed or incomplete.
+- Delete tasks from the list.
+- Edit task titles.
+- Data persistence using local storage.
+- Simple and intuitive UI.
 
-Features
-Add new tasks to the to-do list.
-Mark tasks as completed or incomplete.
-Delete tasks.
-Edit task titles.
+---
 
 ## Getting Started
 
