@@ -6,7 +6,6 @@ A simple To-Do List app built using Flutter. This app allows users to manage the
 - Mark tasks as completed or incomplete.
 - Delete tasks from the list.
 - Edit task titles.
-- Data persistence using local storage.
 - Simple and intuitive UI.
 
 ---
